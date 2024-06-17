@@ -12,6 +12,7 @@ import axios from './plugins/axios'
 import 'uno.css'
 import { configure } from 'vee-validate'
 
+
 const app = createApp(App)
 
 configure({
